@@ -1,0 +1,53 @@
+- NetzwerkSecurity 
+- Cloud Solutions 
+- Systemhaus
+
+
+Betrieb & Service
+- Design / Betrieb der Netzstruktur mit allen passiven und aktiven Komponenten
+- 102 Netze in 44 wuropäischen Lokationen 
+
+- Internetconnections
+Autonomes System (SWS, ebusines, Beckgruppe), INETDSL und x Kunden
+- Switches / Router / Firewalls / IPS/IDS
+(Beckgruppe + Kunden)
+-WAF
+Shops, Sharepoint Schmidt, Loadbalancing WSI
+
+- Sichere Verbindungen 
+VPN OVP SSL TLS 
+dsb-Gruppe / Beckgruppe + Kunden
+
+Kopano/Groupwise/Mailrelay / Ironportcluster/Datasync für Mobile/Webaccess 
+
+Coresysteme
+Fileserver /Filr/IPrint/Zenworks (Vibe)
+ext+int DNS/DHCP/Zeitserver
+Verzeichnisdienst(eDir)
+
+-SSO
+Fileserver, iPrint, Filr, Zenworks, (Vibe)
+Groupwise, Webaccess, Datasync
+OVPN
+Webproxy, Vouncher-Verwaltung
+FTP-Proxy#Monitoring: u.a.Nagios/Icinca
+Wiki + News-Kalender Beschprechung
+Ticketsystem OTRS
+Zammad / Redmine
+Webservices
+SMS-Gateways
+
+- Datentransferplattformen
+- Webproxy-Cluster
+FTP-Proxy WLANs mit GästeWlan incl. Voucher / AV + Contentfilter 
+- Monitoring  (Icinga, Nagios) 
+
+-TK-Anlage(n)
+(VoIP-) Telefone + Konferenztelefone / Konferenzsystem / Videokonferenzsystem
+
+WIKI
+WSUS
+Webseiten / Domainverwaltung
+Technik Haus (Bespt. räume, Zutrittsystem...)
+Workstations (Zenworks / Intune)
+Drucker
